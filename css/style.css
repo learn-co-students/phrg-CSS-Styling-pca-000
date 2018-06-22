@@ -1,0 +1,17 @@
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+figcaption {
+  font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
+  color: rgb(113,44,46,1);
+  text-align: right;
+}
+
+.milk-text{
+  color: gold;
+  font-family: 'Shrikhand', cursive;
+
+}
